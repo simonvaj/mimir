@@ -1,2 +1,2 @@
-# mimir
+# Mímir
 Memory and serialization library
